@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyampyasi
 - 👀 I’m interested in maths and coding 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning java full stack
 
   
 
