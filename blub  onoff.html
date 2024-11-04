@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p> THIS use attributes for showing light  on off in  given demo with on off option </p>
+    <script>
+function light(sw);{
+var pic;
+if(sw==0)
+{
+    pic ="pic_bulboff.gif"
+}
+else
+{
+    pic="pic_bulboff.gif"
+}
+document.getElementIdby('my image').source="pic";
+}
+</script>
+
+<img id="my image" widht="100px"height="180px">
+
+    <button type="button" onclick="light(1)">light on</button>
+    <button type="button"onclick="light(0)"> light off</button>
+</body>
+</html>

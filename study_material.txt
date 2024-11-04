@@ -1,0 +1,5 @@
+semantic element are these block element does not create any impact to understand code
+Eg: header , footer , article .
+
+classes and ID : to identify an element , we can define an attribute class or id , multiple
+element may have same class name or for one element , we can assign multiple class n
