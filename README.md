@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 **Java Developer** | 🌱 **Learning Spring Boot & Microservices** | 💬 **Ask me about OOP & DSA** | ⚡ **Fun fact:** I code best with coffee! ☕  
 
-Passionate about building robust backend systems with Java and Spring. Constantly exploring new technologies to enhance my development skills.  
+Passionate about building robust backend systems with Java and Spring.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyam_o07)
@@ -25,7 +25,7 @@ Passionate about building robust backend systems with Java and Spring. Constantl
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=satyampyasi&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=satyampyasi&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
@@ -36,7 +36,7 @@ Passionate about building robust backend systems with Java and Spring. Constantl
 
 ### 🔥 **Recent Activity**  
 <!--START_SECTION:activity-->  
-*(Add GitHub Activity Feed later using [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme))*  
+*(Add later using [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme))*  
 <!--END_SECTION:activity-->  
 
 ---
@@ -44,8 +44,6 @@ Passionate about building robust backend systems with Java and Spring. Constantl
 ### 📌 **Featured Projects**  
 🔹 **[Project 1](https://github.com/satyampyasi/...)** - A Java-based REST API using Spring Boot.  
 🔹 **[Project 2](https://github.com/satyampyasi/...)** - MySQL-backed application with Hibernate.  
-
-*(Replace with your actual project links and descriptions)*  
 
 ---
 
