@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Java Developer** | 🌱 **Learning Spring Boot & Microservices** | 💬 **Ask me about OOP & DSA** | ⚡ **Fun fact:** I code best with coffee! ☕  
+🔭 **Java Developer** | 🌱 **Learning Spring Boot & Microservices** | 💬 **Ask me about OOP & DSA** | ⚡ **Fun fact:** I code best with chai! ☕  
 
 Passionate about building robust backend systems with Java and Spring.  
 
