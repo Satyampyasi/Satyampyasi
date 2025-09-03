@@ -25,8 +25,8 @@ Passionate about building robust backend systems with Java and Spring.
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=satyampyasi&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=satyampyasi&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
