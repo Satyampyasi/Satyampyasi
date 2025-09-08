@@ -27,7 +27,7 @@ Passionate about building robust backend systems with Java and Spring.
 <div align="center">
 
   <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=satyampyasi&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyampyasi&theme=radical&hide_border=true)
 
   <!-- Top Languages with Percentages -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
