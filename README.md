@@ -27,13 +27,13 @@ Passionate about building robust backend systems with Java and Spring.
 <div align="center">
 
   <!-- Streak Stats -->
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyampyasi&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=satyampyasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
   <!-- Top Languages with Percentages -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages"/>
 
 </div>
+
 
 
 
