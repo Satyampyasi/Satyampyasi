@@ -26,7 +26,7 @@ Passionate about building robust backend systems with Java and Spring.
 # 📊 GitHub Stats:
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats 
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=satyampyasi&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Satyam's GitHub Stats" />
 
   <!-- Streak Stats -->
