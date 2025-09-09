@@ -26,11 +26,14 @@ Passionate about building robust backend systems with Java and Spring.
 # 📊 GitHub Stats:
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=satyampyasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=satyampyasi&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Satyam's GitHub Stats" />
 
-  <!-- Top Languages with Percentages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampyasi&theme=radical&layout=compact&langs_count=8" alt="Top Languages"/>
+  <!-- Streak Stats -->
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=satyampyasi&theme=radical&count_private=true&border_radius=10&locale=en" alt="Satyam's GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampyasi&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Satyam's Most Used Languages" />
 
 </div>
 
