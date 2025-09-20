@@ -14,34 +14,45 @@ Passionate about building robust backend systems with Java and Spring.
 
 # 💻 Tech Stack  
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
 
-
+</td>
+<td align="center" width="50%">
 
 ### 🛠️ Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 
-
+</td>
+</tr>
+</table>  
 
 ---
 
+## 📊 GitHub Stats  
 <div align="center">
 
-<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyampyasi&theme=radical&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Satyam's GitHub Stats" />
 
- ## <img width="32%" src="https://github-readme-stats.vercel.app/api?##username=satyampyasi&theme=radical&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Satyam's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=satyampyasi&theme=radical&border_radius=10&count_private=true" alt="Satyam's GitHub Streak" />
 
-  <img width="32%" src="https://github-readme-streak-stats-eight.vercel.app/?user=satyampyasi&theme=radical&border_radius=10&count_private=true" alt="Satyam's GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampyasi&theme=radical&layout=compact&hide=css&langs_count=8&border_radius=10" alt="Satyam's Most Used Languages" />
 
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampyasi&theme=radical&layout=compact&hide=css&langs_count=8&border_radius=10" alt="Satyam's Most Used Languages" />
+</div>  
 
-</div>
-
+---
 
 ## 🏆 GitHub Trophies  
 <div align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=satyampyasi&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=satyampyasi&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />  
 </div>  
 
 ---
@@ -61,5 +72,6 @@ Passionate about building robust backend systems with Java and Spring.
 
 <p align="center">  
   <img src="https://visitcount.itsvg.in/api?id=satyampyasi&color=6&icon=6&pretty=true" />  
-</p>
+</p>  
+
  
