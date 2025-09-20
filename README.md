@@ -13,31 +13,31 @@ Passionate about building robust backend systems with Java and Spring.
 # 💻 Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 
 ### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white)  
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white) 
+![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?logo=java&logoColor=white) 
 ![RESTful API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)  
 
 ### 🛠️ Databases & Tools  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 
 ---
