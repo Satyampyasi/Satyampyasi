@@ -15,8 +15,8 @@ Passionate about building robust backend systems with Java and Spring.
 # 💻 Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
+
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
 
 ### 🛠️ Databases & Tools  
