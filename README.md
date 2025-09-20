@@ -14,26 +14,11 @@ Passionate about building robust backend systems with Java and Spring.
 
 # 💻 Tech Stack  
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+### 🚀 Languages & Frameworks
+Java | Spring | Hibernate | JDBC
 
-### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
-
-</td>
-<td align="center" width="50%">
-
-### 🛠️ Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-
-</td>
-</tr>
-</table>  
+### 🛠️ Databases & Tools
+MySQL | Git | Postman
 
 ---
 
@@ -46,13 +31,6 @@ Passionate about building robust backend systems with Java and Spring.
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampyasi&theme=radical&layout=compact&hide=css&langs_count=8&border_radius=10" alt="Satyam's Most Used Languages" />
 
-</div>  
-
----
-
-## 🏆 GitHub Trophies  
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=satyampyasi&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />  
 </div>  
 
 ---
